@@ -316,7 +316,7 @@ i{
     font-size: 15px;
 }
 .footer{
-    position: fixed;
+   
     display: grid;
     grid-template-columns: auto auto;
     color:grey;
